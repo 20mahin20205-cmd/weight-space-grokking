@@ -1,0 +1,24 @@
+step   1000  train_loss  0.0000  test_loss 14.1660  train_acc 1.000  test_acc 0.027  (35s)
+step   2000  train_loss  0.0000  test_loss 16.0986  train_acc 1.000  test_acc 0.042  (68s)
+step   3000  train_loss  0.0001  test_loss 10.9765  train_acc 1.000  test_acc 0.052  (121s)
+step   4000  train_loss  0.0004  test_loss 11.2394  train_acc 1.000  test_acc 0.076  (152s)
+step   5000  train_loss  0.0000  test_loss 12.1140  train_acc 1.000  test_acc 0.100  (184s)
+step   6000  train_loss  0.0002  test_loss  7.7765  train_acc 1.000  test_acc 0.128  (216s)
+step   7000  train_loss  0.0000  test_loss 12.2282  train_acc 1.000  test_acc 0.123  (249s)
+step   8000  train_loss  0.0000  test_loss  8.8768  train_acc 1.000  test_acc 0.188  (300s)
+step   9000  train_loss  0.0004  test_loss  5.4936  train_acc 1.000  test_acc 0.225  (333s)
+step  10000  train_loss  0.0000  test_loss  8.2106  train_acc 1.000  test_acc 0.250  (429s)
+step  11000  train_loss  0.0000  test_loss  5.3420  train_acc 1.000  test_acc 0.360  (462s)
+step  12000  train_loss  0.0003  test_loss  2.9099  train_acc 1.000  test_acc 0.455  (567s)
+step  13000  train_loss  0.0000  test_loss  3.2666  train_acc 1.000  test_acc 0.564  (599s)
+step  14000  train_loss  0.0000  test_loss  1.2557  train_acc 1.000  test_acc 0.732  (624s)
+step  15000  train_loss  0.0002  test_loss  0.2620  train_acc 1.000  test_acc 0.918  (649s)
+step  16000  train_loss  0.0000  test_loss  0.0387  train_acc 1.000  test_acc 0.988  (674s)
+step  17000  train_loss  0.0000  test_loss  0.0128  train_acc 1.000  test_acc 0.998  (699s)
+{
+  "T_mem": 300,
+  "T_grok": 15300,
+  "delay": 15000,
+  "wall_seconds": 707.0365927219391,
+  "grokked": true
+}
